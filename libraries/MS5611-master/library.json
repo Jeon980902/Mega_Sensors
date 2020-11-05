@@ -1,0 +1,25 @@
+{
+  "name": "MS5611",
+  "keywords": "MS5611,temperature,pressure",
+  "description": "Experimental library for MS5611 Temperature & Pressure for Arduino using SPI.",
+  "authors":
+  [
+    {
+      "name": "Roy van der Kraan",
+      "url": "https://github.com/Troynica/MS5611",
+      "maintainer": true
+    },
+    {
+      "name": "Rob Tillaart",
+      "url": "https://github.com/RobTillaart/Arduino"
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Troynica/MS5611.git"
+  },
+  "version":"0.1.9",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
